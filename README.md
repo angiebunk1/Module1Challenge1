@@ -1,8 +1,8 @@
-# Horiseon
+# Module 1 Challenge 1
 
 ## Description
 
-A website that offers search engine optimization and other web services. 
+A website for a company named Horiseon that offers search engine optimization and other web services. 
 
 ## Modifications Made
 - Code was modified to better meet accessibility standards. 

@@ -85,18 +85,6 @@ header a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-    max-height: 200px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-    max-height: 200px;
-}
 /*content section styles end*/
 
 /*benefits column styles start*/
@@ -140,3 +128,17 @@ footer h2 {
     font-size: 20px;
 }
 /*footer styles end*/
+
+/*utility classes*/
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+    max-height: 200px;
+}
